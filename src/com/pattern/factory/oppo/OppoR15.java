@@ -1,4 +1,6 @@
-package com.pattern.factory;
+package com.pattern.factory.oppo;
+
+import com.pattern.factory.SmartPhone;
 
 public class OppoR15 implements SmartPhone {
     @Override

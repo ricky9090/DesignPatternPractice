@@ -1,4 +1,6 @@
-package com.pattern.factory;
+package com.pattern.factory.iphone;
+
+import com.pattern.factory.SmartPhone;
 
 public class IPhoneX implements SmartPhone {
     @Override

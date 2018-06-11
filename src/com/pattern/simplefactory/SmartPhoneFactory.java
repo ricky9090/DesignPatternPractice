@@ -1,4 +1,4 @@
-package com.pattern.factory;
+package com.pattern.simplefactory;
 
 public class SmartPhoneFactory {
     public static SmartPhone createSmartPhone(Class clazz) {

@@ -1,4 +1,4 @@
-package com.pattern.factory;
+package com.pattern.simplefactory;
 
 public class HuaweiMate implements SmartPhone {
     @Override
